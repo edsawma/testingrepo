@@ -1,5 +1,6 @@
-
 # Django-React-Typescript-Vite Starter Template
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fedsawma%2Ftestingrepo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fedsawma%2Ftestingrepo?ref=badge_shield)
+
 
 ## Stack
 
@@ -103,3 +104,7 @@ yarn dev
 > yarn dev
 > ``` 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fedsawma%2Ftestingrepo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fedsawma%2Ftestingrepo?ref=badge_large)
